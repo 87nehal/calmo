@@ -21,5 +21,6 @@ Thank You
 
 
 
-<img src="https://play.google.com/store/apps/details?id=com.calmox" alt="play-store-button" style="max-width:30%;">
+<img src="https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png" alt="play-store-button" style="max-width:30%;"
+<a href="https://play.google.com/store/apps/details?id=com.calmox"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>>
 
