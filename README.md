@@ -21,5 +21,5 @@ Thank You
 
 
 
-<img src="https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png" alt="play-store-button" style="max-width:100%;">
+<img src="https://play.google.com/store/apps/details?id=com.calmox" alt="play-store-button" style="max-width:30%;">
 
